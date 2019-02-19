@@ -1,0 +1,2 @@
+C:\Users\Liron\source\repos\17.2.19h.w\17.2.19h.w\obj\Debug\17.2.19h.w.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\17.2.19h.w\17.2.19h.w\obj\Debug\17.2.19h.w.csproj.CoreCompileInputs.cache
